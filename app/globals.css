@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+.inputField {
+  color: black;
+  margin-bottom: 10px;
+}
